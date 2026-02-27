@@ -21,13 +21,11 @@ Step 8
 # FEDev-JSON-data-driven-website-step-8
 
 
-NOTE:
-
-NOTE: for this step to work, you must be running the API JSON server project at port 3000
-
-NOTE: See https://github.com/dr-matt-smith/FEDDev---express-JSON-data-API-server
-
-NOTE:
+    NOTE:
+    NOTE: for this step to work, you must be running the API JSON server project at port 3000
+    NOTE: See https://github.com/dr-matt-smith/FEDDev---express-JSON-data-API-server
+    NOTE:
+See https://github.com/dr-matt-smith/FEDDev---express-JSON-data-API-server
 
 ## 1: Update JavaScript to get list of modules from JSON API server
 Let's refactor our modules list JavaScript data loading page, to read from JSON API rather than a hard-coded JSON file on disk.
