@@ -22,8 +22,11 @@ Step 8
 
 
 NOTE:
+
 NOTE: for this step to work, you must be running the API JSON server project at port 3000
+
 NOTE: See https://github.com/dr-matt-smith/FEDDev---express-JSON-data-API-server
+
 NOTE:
 
 ## 1: Update JavaScript to get list of modules from JSON API server
